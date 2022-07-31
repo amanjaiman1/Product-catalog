@@ -1,0 +1,61 @@
+body{
+
+	margin:0;
+        text-align: center;
+	font-family: 'Montserrat', sans-serif;
+
+
+}
+
+.skill-row{
+	width:50%;
+	height: 40%;
+	margin: 40px auto 10px auto;
+	text-align: left;
+
+
+}
+.shirt-img {
+	width: 30%;
+	float: left;
+	margin-right: 20px;
+}
+
+
+.price{
+	font-size: 10px;
+}
+.hed{
+	color: #949494;
+}
+
+.p{
+	font-size: 13px;
+}
+table{
+	border-spacing: 0 13px;
+	text-align: left;
+}
+button{
+	background-color: rgb(52, 52, 234);
+	color: white;
+	border: none;
+	padding: 10px;
+	border-radius: 10px;
+	cursor: pointer;
+}
+.button1:active{
+	background-color: white;
+	transform: translateY(2px);
+	box-shadow: 0 5px rgb(189, 188, 185);
+}
+.button2:active{
+	background-color: white;
+	transform: translateY(2px);
+	box-shadow: 0 5px rgb(189, 188, 185);
+}
+.button2{
+	background-color:rgb(244, 241, 241) ;
+	color: black;
+	font-weight: bold;
+}
